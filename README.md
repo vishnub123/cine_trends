@@ -1,4 +1,4 @@
-# CineTrends 🎬   [View Demo](https://vishnub123/github.io/cine_trends/)
+# CineTrends 🎬   [View Demo](https://vishnub123.github.io/cine_trends/)
 
 CineTrends is a modern React web application that helps you discover trending and popular movies, search for your favorites, and see what’s hot right now. It uses [The Movie Database (TMDB)](https://www.themoviedb.org/) API for movie data and [Appwrite](https://appwrite.io/) for tracking trending searches.
 
